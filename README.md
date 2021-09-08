@@ -39,5 +39,5 @@ TOPIC=<target topic>
 ## Starting up development enviroment
 
 ```
-npm run devStart
+node index.js
 ```
