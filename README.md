@@ -20,7 +20,7 @@ Create .env file to store enviroment variables
 $ touch .env
 ```
 
-Copy and paste the variables below in the .env file
+Copy and paste the variables below in the .env file and configure the file
 
 ```
 # Kakfa
